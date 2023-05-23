@@ -17,5 +17,3 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 2: Introdução à HTML e CSS
 
 Em Breve!
-
-[etc...]
