@@ -6,4 +6,4 @@
 - Modelo Cliente/Servidor
 - Introdução à HTML
 - Tags HTML
-- Criação de minha primeira página web (Meus Amigos)[meus-amigos.html]
+- Criação de minha primeira página web [Meus Amigos](meus-amigos.html)
