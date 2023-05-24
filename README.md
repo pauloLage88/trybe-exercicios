@@ -1,10 +1,8 @@
-# Trybe
+# Exercícios Trybe 🚀👨🏻‍💻
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por mim, _[Paulo Lage](https://www.linkedin.com/in/paulolagedev)_, enquanto estudo na [Trybe](https://www.betrybe.com/) 🚀
+Durante minha formação na [Trybe](https://www.betrybe.com/), fui exposto a diversos desafios técnicos que contribuiram para minha evolução como pessoa desenvolvedora. Este repositório é como um diário de minha jornada em Hard Skills durante o curso, e eu,_[Paulo Lage](https://www.linkedin.com/in/paulolagedev)_, te convido para me acompanhar pelos meus exercícios, projetos e tudo que aprendi durante cada dia na Trybe. 
 
-_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
-
-O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+O programa da Trybe conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
 ## ⏳ Fundamentos do Desenvolvimento Web 
 
