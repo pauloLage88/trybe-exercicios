@@ -1,4 +1,4 @@
-# Seção – Unix, Shell e Git
+# Seção 1 – Unix, Shell e Git
 
 ## O que aprendi?
 
