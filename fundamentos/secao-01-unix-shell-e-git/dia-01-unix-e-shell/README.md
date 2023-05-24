@@ -9,3 +9,5 @@
 - Terminal
 - Diversos comandos executados no Shell
 - Utilização de operadores de redirecionamento
+
+#### _OBS.: Os exercícios do dia exigiam a prática de comandos, manipulação e criação de arquivos e diretórios no terminal, portanto não foram hospedados neste repositório._
