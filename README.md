@@ -15,7 +15,7 @@ O programa da Trybe conta com mais de 1.500 horas de aulas presenciais e online,
 ##### Seção 2: Introdução à HTML e CSS
 
 - [X] Dia 2.1: _HTML & CSS - Estruturas de página_
-- [ ] Dia 2.2: _HTMLS & CSS - Primeiros passos em CSS_
+- [X] Dia 2.2: _HTMLS & CSS - Primeiros passos em CSS_
 - [ ] Dia 2.3: _HTML & CSS - Seletores e posicionamento_
 - [ ] Dia 2.4: _HTML Semântico_
 - [ ] Dia 2.5: _Projeto - Lessons Learned_
