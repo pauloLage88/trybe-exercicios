@@ -1,0 +1,39 @@
+div:hover{
+    border: solid black;
+}
+div:nth-of-type(1){
+    background-color: blue;
+}
+div:nth-of-type(2){
+    background-color: green;
+}
+div:nth-of-type(3){
+    background-color: yellow;
+}
+div:nth-of-type(4){
+    background-color: indigo;
+}
+div:nth-of-type(5){
+    background-color: beige;
+}
+/* o seletor > transfere p/ o filho (h3) a estilização */
+div:nth-of-type(1) > h3{
+    color:red;
+}
+div:nth-of-type(2) > h3{
+    color:blue;
+}
+div:nth-of-type(3) > h3{
+    color:brown;
+    font-size: 30px;
+}
+div:nth-of-type(4) > h3{
+    color:chartreuse;
+}
+div:nth-of-type(5) > h3{
+    color:blueviolet;
+}
+div:nth-of-type(2n+1) > h3{
+    font-style: italic;
+}
+
