@@ -4,7 +4,7 @@ Durante minha formação na [Trybe](https://www.betrybe.com/), fui exposto a div
 
 O programa da Trybe conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## ⏳ Fundamentos do Desenvolvimento Web 
+## ✅ Fundamentos do Desenvolvimento Web 
 
 ##### Seção 1: Introdução - Unix, Shell e Git
 
@@ -18,8 +18,8 @@ O programa da Trybe conta com mais de 1.500 horas de aulas presenciais e online,
 - [X] Dia 2.2: _HTMLS & CSS - Primeiros passos em CSS_
 - [X] Dia 2.3: _HTML & CSS - Seletores e posicionamento_
 - [X] Dia 2.4: _HTML Semântico_
-- [ ] Dia 2.5: _Projeto - Lessons Learned_
+- [X] Dia 2.5: _Projeto - Lessons Learned_
 
-#### Seção 3: Introdução à JavaScript
+#### ⏳ Seção 3: Introdução à JavaScript
 
 - _Em Breve!_
