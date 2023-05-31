@@ -23,11 +23,11 @@ O programa da Trybe conta com mais de 1.500 horas de aulas presenciais e online,
 #### ⏳ Seção 3: Introdução à JavaScript
 
 - [X] Dia 3.1: _Primeiros passos no JavaScript_
-- [] Dia 3.2: _Array e estruturas de repetição_
-- [] Dia 3.3: _Funções_
-- [] Dia 3.4: _Objetos_
-- [] Dia 3.5: _JSON_
-- [] Dia 3.6: _Projeto - Supermercado Pirilampo_
+- [ ] Dia 3.2: _Array e estruturas de repetição_
+- [ ] Dia 3.3: _Funções_
+- [ ] Dia 3.4: _Objetos_
+- [ ] Dia 3.5: _JSON_
+- [ ] Dia 3.6: _Projeto - Supermercado Pirilampo_
 
 #### Seção 4: JavasScript: DOM, Eventos e Web Storage
 
