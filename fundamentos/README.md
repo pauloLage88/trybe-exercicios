@@ -9,6 +9,6 @@ _Nesse primeiro módulo aprendi tudo que precisava saber para iniciar minha carr
 - Criar documentos HTML estilizados com CSS; ✅
 - Usar o JavaScript para adicionar comportamento às páginas web;
 - Utilizar recursos de HTML e CSS avançados;
-- Trabalhar com JavaScript ES6;
+- Trabalhar com JavaScript ES6; ✅
 - Escrever testes unitários;
 - Manipular conjuntos de dados para resolver problemas complexos.
