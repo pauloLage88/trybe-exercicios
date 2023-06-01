@@ -11,7 +11,5 @@ console.log(revArray.join(''));
 
 // Solução c/ as funções split, reverse e join:
 // let rev = [];
-// rev = word.split('');
-// rev = rev.reverse();
-// rev = rev.join('')
+// rev = word.split('').reverse().join('');
 // console.log(rev);
