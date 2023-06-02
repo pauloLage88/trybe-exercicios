@@ -8,3 +8,5 @@
 - Operadores ternários
 - Arrays e manipulação
 - Loop de repetição 'for'
+- Funções
+- Arrow Functions
