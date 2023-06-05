@@ -10,3 +10,4 @@
 - Loop de repetição 'for'
 - Funções
 - Arrow Functions
+- Objetos e suas manipulações
