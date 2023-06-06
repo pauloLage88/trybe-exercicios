@@ -11,3 +11,4 @@
 - Funções
 - Arrow Functions
 - Objetos e suas manipulações
+- JSON
