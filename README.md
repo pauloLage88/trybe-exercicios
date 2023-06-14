@@ -32,7 +32,7 @@ O programa da Trybe conta com mais de 1.500 horas de aulas presenciais e online,
 #### ⏳ Seção 4: JavasScript: DOM, Eventos e Web Storage
 
 - [X] Dia 4.1: _JavaScript - DOM e Seletores_
-- [ ] Dia 4.2: _JavaScript - Trabalhando com Elementos_
+- [x] Dia 4.2: _JavaScript - Trabalhando com Elementos_
 - [ ] Dia 4.3: _JavaScript - Eventos_
 - [ ] Dia 4.4: _JavaScript - Web Storage_
 - [ ] Dia 4.5: _Projeto - Arte com Pixels_
