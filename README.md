@@ -20,15 +20,20 @@ O programa da Trybe conta com mais de 1.500 horas de aulas presenciais e online,
 - [X] Dia 2.4: _HTML Semântico_
 - [X] Dia 2.5: _Projeto - Lessons Learned_
 
-#### ⏳ Seção 3: Introdução à JavaScript
+#### Seção 3: Introdução à JavaScript
 
 - [X] Dia 3.1: _Primeiros passos no JavaScript_
 - [x] Dia 3.2: _Array e estruturas de repetição_
 - [x] Dia 3.3: _Funções_
 - [x] Dia 3.4: _Objetos_
 - [x] Dia 3.5: _JSON_
-- [ ] Dia 3.6: _Projeto - Supermercado Pirilampo_
+- [x] Dia 3.6: _Projeto - Supermercado Pirilampo_
 
-#### Seção 4: JavasScript: DOM, Eventos e Web Storage
+#### ⏳ Seção 4: JavasScript: DOM, Eventos e Web Storage
 
-- _Em Breve!_
+- [X] Dia 4.1: _JavaScript - DOM e Seletores_
+- [ ] Dia 4.2: _JavaScript - Trabalhando com Elementos_
+- [ ] Dia 4.3: _JavaScript - Eventos_
+- [ ] Dia 4.4: _JavaScript - Web Storage_
+- [ ] Dia 4.5: _Projeto - Arte com Pixels_
+- [ ] Dia 4.6: _Projeto Bônus_
