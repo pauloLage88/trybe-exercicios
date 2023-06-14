@@ -6,13 +6,13 @@ O programa da Trybe conta com mais de 1.500 horas de aulas presenciais e online,
 
 ## ✅ Fundamentos do Desenvolvimento Web 
 
-##### Seção 1: Introdução - Unix, Shell e Git
+##### ✅ Seção 1: Introdução - Unix, Shell e Git
 
 - [X] Dia 1.1: _Unix & Shell_
 - [X] Dia 1.2: _Git - O que é e para que serve_
 - [X] Dia 1.3: _Git & GitHub - Entendendo os comandos_
 
-##### Seção 2: Introdução à HTML e CSS
+##### ✅ Seção 2: Introdução à HTML e CSS
 
 - [X] Dia 2.1: _HTML & CSS - Estruturas de página_
 - [X] Dia 2.2: _HTMLS & CSS - Primeiros passos em CSS_
@@ -20,7 +20,7 @@ O programa da Trybe conta com mais de 1.500 horas de aulas presenciais e online,
 - [X] Dia 2.4: _HTML Semântico_
 - [X] Dia 2.5: _Projeto - Lessons Learned_
 
-#### Seção 3: Introdução à JavaScript
+#### ✅ Seção 3: Introdução à JavaScript
 
 - [X] Dia 3.1: _Primeiros passos no JavaScript_
 - [x] Dia 3.2: _Array e estruturas de repetição_
