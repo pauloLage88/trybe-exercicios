@@ -27,13 +27,30 @@ thirdLi.addEventListener('click', aoClicar);
 
 // 3. Crie uma função que, ao digitar na caixa de texto, altere o texto do elemento
 // com a classe 'tech'.
+input.addEventListener ('keyup', () => {
+    // const parent = document.querySelector('.container');
+    const textoDigitado = input.value;
+    document.querySelector('.tech').innerHTML = `${textoDigitado}`
+});
+console.log(myWebpage);
 
 // 4. Crie uma função que, ao clicar duas vezes em 'Meu top 3 do Spotrybefy',
 // redirecione para alguma página.
 // 4.1. Que tal redirecionar para seu portfólio? Dica: Lembre-se dos métodos `window.location.replace` e `window.open`.
+myWebpage.addEventListener ('click', (event) => {
+    console.log(event.target);
+    window.open('https://paulolage88.github.io/')
+});
 
 // 5. Crie uma função que, ao passar o mouse sobre 'Meu top 3 do Spotrybefy', altere
 // a cor do mesmo.
+myWebpage.addEventListener('mouseover', () => {
+    myWebpage.style.color = '#2fc18c';
+    myWebpage.style.cursor = 'pointer'
+});
+myWebpage.addEventListener('mouseleave' , ()=> {
+    myWebpage.style.color = ''
+});
 
 // Segue abaixo um exemplo de uso do event.target.
 
@@ -45,6 +62,8 @@ const resetText = (event) => {
 }
 
 firstLi.addEventListener('dblclick', resetText);
+secondLi.addEventListener('dblclick', resetText);
+thirdLi.addEventListener('dblclick', resetText);
 
 // Não precisa passar o parâmetro dentro da callback resetText. O próprio
 // navegador fará esse trabalho por você, não é legal? Desse jeito, o
